@@ -29,13 +29,8 @@ One step <em><b>faster</b></em> for Vite
 
 ## Sponsors
 
-This project is part of my [Sponsor Program](https://github.com/sponsors/antfu).
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.png'/>
-  </a>
-</p>
+This project is forked from [antfu.vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite).
+Fixed vite.host not working problem.
 
 ## License
 
