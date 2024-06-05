@@ -35,7 +35,7 @@ export async function start({
         : 'npx vite'
     }
 
-    command += ` --port=${ctx.port} --host=${ctx.host}`
+    command += ` --port=${ctx.port} --host=${Config.host}`
 
     executeCommand(command)
   }

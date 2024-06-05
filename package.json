@@ -1,9 +1,9 @@
 {
-  "name": "vite",
+  "name": "vite2",
   "preview": true,
-  "displayName": "Vite",
+  "displayName": "Vite2",
   "description": "VS Code for Vite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "cyberyoung",
   "license": "MIT",
   "icon": "res/icon.png",
