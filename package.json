@@ -4,12 +4,12 @@
   "displayName": "Vite",
   "description": "VS Code for Vite",
   "version": "0.2.5",
-  "publisher": "antfu",
+  "publisher": "cyberyoung",
   "license": "MIT",
   "icon": "res/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-vite"
+    "url": "https://github.com/cyberyoung/vscode-vite"
   },
   "engines": {
     "vscode": "^1.52.0"
