@@ -3,7 +3,7 @@
   "preview": true,
   "displayName": "Vite2",
   "description": "VS Code for Vite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "cyberyoung",
   "license": "MIT",
   "icon": "res/icon.png",
