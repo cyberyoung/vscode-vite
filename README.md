@@ -9,7 +9,7 @@ VS Code for <em>Vite ⚡️</em>
 One step <em><b>faster</b></em> for Vite
 </o>
 <p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=antfu.vite" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.vite.svg?color=228cb3&amp;label=" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=cyberyoung.vite2" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/cyberyoung.vite2.svg?color=228cb3&amp;label=" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
 This project is forked from [antfu.vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite).
