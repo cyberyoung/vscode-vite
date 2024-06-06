@@ -12,6 +12,9 @@ One step <em><b>faster</b></em> for Vite
 <a href="https://marketplace.visualstudio.com/items?itemName=antfu.vite" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.vite.svg?color=228cb3&amp;label=" alt="Visual Studio Marketplace Version" /></a>
 </p>
 
+This project is forked from [antfu.vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite).
+Fixed vite.host not working problem.
+
 - ⚡️ **Start the dev server immediately** when you open the project
 - 🚀 Preview / debug your app **without leaving your editor**
 - ⬢ Prompt for quick node module installs (`npm i` `yarn` `pnpm i`) when opening a fresh project
@@ -26,11 +29,6 @@ One step <em><b>faster</b></em> for Vite
 <img alt="Preview 2" src="https://user-images.githubusercontent.com/11247099/109469308-d1547680-7aa8-11eb-9957-23a4d8ac35e6.png">
 <img alt="Preview 3" src="https://user-images.githubusercontent.com/11247099/110799208-e786e180-82b5-11eb-96e7-71be27ca0df8.png">
 </p>
-
-## Sponsors
-
-This project is forked from [antfu.vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite).
-Fixed vite.host not working problem.
 
 ## License
 
